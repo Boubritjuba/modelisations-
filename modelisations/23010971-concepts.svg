@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800"
+   height="600"
+   viewBox="0 0 211.66667 158.75"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="23010971-concepts.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.66903058"
+     inkscape:cx="242.1414"
+     inkscape:cy="263.81455"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="373.675"
+       y="264.5619"
+       width="59.788"
+       height="26.9046"
+       id="rect29" />
+    <rect
+       x="124.0601"
+       y="191.3216"
+       width="297.4453"
+       height="91.176699"
+       id="rect6" />
+    <rect
+       x="159.9329"
+       y="405.0637"
+       width="496.2404"
+       height="131.5336"
+       id="rect4" />
+    <linearGradient
+       id="swatch3"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       id="swatch2"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#1d1d1d;stop-opacity:0.99607801;"
+         offset="0"
+         id="stop2" />
+    </linearGradient>
+    <rect
+       x="153.9541"
+       y="375.1697"
+       width="177.8693"
+       height="49.3251"
+       id="rect19" />
+    <rect
+       x="408.0531"
+       y="94.166099"
+       width="189.8269"
+       height="47.8304"
+       id="rect18" />
+    <rect
+       x="573.9648"
+       y="47.8304"
+       width="174.8799"
+       height="62.7774"
+       id="rect17" />
+    <rect
+       x="340.7916"
+       y="254.099"
+       width="115.0919"
+       height="53.8092"
+       id="rect16" />
+    <rect
+       x="349.7598"
+       y="258.5831"
+       width="89.681999"
+       height="43.3463"
+       id="rect15" />
+    <rect
+       x="352.7492"
+       y="260.0778"
+       width="94.166099"
+       height="40.3569"
+       id="rect13" />
+    <rect
+       x="65.766799"
+       y="273.5301"
+       width="137.5124"
+       height="38.8622"
+       id="rect12" />
+    <rect
+       x="312.3923"
+       y="56.7986"
+       width="167.4064"
+       height="43.3463"
+       id="rect11" />
+    <rect
+       x="76.229699"
+       y="49.3251"
+       width="183.8481"
+       height="77.7244"
+       id="rect10" />
+    <rect
+       x="194.311"
+       y="147.9753"
+       width="360.22269"
+       height="100.1449"
+       id="rect8" />
+    <linearGradient
+       id="swatch6"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#9b9b9b;stop-opacity:1;"
+         offset="0"
+         id="stop6" />
+    </linearGradient>
+    <marker
+       orient="auto-start-reverse"
+       refY="0"
+       refX="0"
+       id="ThreeDots"
+       inkscape:stockid="Ellipsis"
+       style="overflow:visible"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <g
+         transform="scale(0.5)"
+         id="g33">
+        <circle
+           cx="4"
+           cy="0"
+           r="1"
+           style="fill:context-stroke;stroke:context-stroke"
+           id="circle31" />
+        <circle
+           cx="8"
+           cy="0"
+           r="1"
+           style="fill:context-stroke;stroke:context-stroke"
+           id="circle32" />
+        <circle
+           cx="12"
+           cy="0"
+           r="1"
+           style="fill:context-stroke;stroke:context-stroke"
+           id="circle33" />
+      </g>
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch3"
+       id="linearGradient3"
+       x1="1.9777106"
+       y1="78.501335"
+       x2="210.49678"
+       y2="78.501335"
+       gradientUnits="userSpaceOnUse" />
+    <rect
+       x="159.9329"
+       y="405.0637"
+       width="496.2404"
+       height="131.5336"
+       id="rect7" />
+    <rect
+       x="159.9329"
+       y="405.0637"
+       width="496.2404"
+       height="131.5336"
+       id="rect20" />
+    <rect
+       x="159.9329"
+       y="405.0637"
+       width="496.2404"
+       height="131.5336"
+       id="rect26" />
+    <rect
+       x="159.9329"
+       y="405.0637"
+       width="496.2404"
+       height="131.5336"
+       id="rect27" />
+    <rect
+       x="159.9329"
+       y="405.0637"
+       width="496.2404"
+       height="131.5336"
+       id="rect28" />
+    <rect
+       x="159.9329"
+       y="405.0637"
+       width="496.2404"
+       height="131.5336"
+       id="rect35" />
+    <rect
+       x="159.9329"
+       y="405.0637"
+       width="496.2404"
+       height="131.5336"
+       id="rect37" />
+    <rect
+       x="159.9329"
+       y="405.0637"
+       width="496.2404"
+       height="131.5336"
+       id="rect38" />
+    <rect
+       x="159.9329"
+       y="405.0637"
+       width="496.2404"
+       height="131.5336"
+       id="rect39" />
+    <rect
+       x="159.9329"
+       y="405.0637"
+       width="496.2404"
+       height="131.5336"
+       id="rect40" />
+    <rect
+       x="159.9329"
+       y="405.0637"
+       width="496.2404"
+       height="131.5336"
+       id="rect49" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke-width:0.264583"
+       id="rect1"
+       width="60.90279"
+       height="42.315571"
+       x="49.038616"
+       y="59.320904" />
+    <rect
+       style="fill:none;stroke-width:0.264583"
+       id="rect2"
+       width="98.868172"
+       height="32.428761"
+       x="12.655127"
+       y="158.58455" />
+    <rect
+       style="fill:none;stroke-width:0.264583;marker-start:url(#ThreeDots)"
+       id="rect3"
+       width="92.936081"
+       height="58.529957"
+       x="28.474035"
+       y="53.388817" />
+    <rect
+       style="fill:none;stroke-width:0.264583"
+       id="rect5"
+       width="45.479362"
+       height="91.749664"
+       x="45.083889"
+       y="43.897469" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text8"
+       style="white-space:pre;shape-inside:url(#rect8);fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.89134;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;white-space:pre;inline-size:73.3062;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.765;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="94.122498"
+       y="57.343544"
+       id="text9"
+       transform="translate(-54.575233,54.575234)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,61.298269,21.355526)"
+       id="text12"
+       style="font-size:18.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect12);fill:#ffffff;fill-rule:nonzero;stroke:#000000;stroke-width:2.89134;paint-order:markers fill stroke" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text13"
+       style="fill:#ffffff;stroke-width:2.89133858;paint-order:markers fill stroke;stroke:#000000;-inkscape-font-specification:Arial;font-family:Arial;font-size:18.66666667px;text-align:center;fill-rule:nonzero;white-space:pre;shape-inside:url(#rect13)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.24697052,0,0,0.61618553,6.3552006,-91.951011)"
+       id="text15"
+       style="font-size:9.04322px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect15);fill:#ffffff;fill-rule:nonzero;stroke:#000000;stroke-width:2.89134;paint-order:markers fill stroke" />
+    <g
+       id="g50">
+      <ellipse
+         style="opacity:0.99;fill:none;fill-opacity:0.99607801;fill-rule:nonzero;stroke:url(#linearGradient3);stroke-width:0.842;stroke-miterlimit:2;paint-order:stroke fill markers;stroke-dasharray:none"
+         id="path1"
+         cx="106.23724"
+         cy="78.501335"
+         rx="103.98853"
+         ry="67.011826" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,47.456725,-0.3954722)"
+       id="text3"
+       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect4);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:1.2926;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
+         x="308.8533"
+         y="431.48655"
+         id="tspan2"><tspan
+           style="opacity:1;fill:#000000"
+           id="tspan1">Réchauffement
+</tspan></tspan><tspan
+         x="325.72568"
+         y="468.15318"
+         id="tspan5"><tspan
+           style="opacity:1;fill:#000000"
+           id="tspan3"> climatique    </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text5"
+       style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect6);opacity:1;fill:none;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:2.0485;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26913169,0,0,0.28278349,-65.528857,-56.866568)"
+       id="text24"
+       style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect26);shape-padding:0;opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:2.0485;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers" />
+    <g
+       id="g35"
+       transform="matrix(0.72595898,0,0,0.72054589,-9.2670696,17.094052)">
+      <g
+         id="g34"
+         transform="matrix(1.4334402,0,0,1.2383987,-104.41811,-14.615592)">
+        <g
+           id="g32"
+           transform="matrix(0.88155301,0,0,1.0016083,17.718761,-0.15996046)">
+          <ellipse
+             style="fill:none;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.681477;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"
+             id="ellipse21"
+             cx="121.21239"
+             cy="99.461395"
+             rx="28.206369"
+             ry="12.782937" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.37926438,0,0,0.32765965,-78.908214,-28.818425)"
+         id="text25"
+         style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect27);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.913426;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
+           x="329.33887"
+           y="426.68256"
+           id="tspan7"><tspan
+             style="opacity:1;fill:#000000"
+             id="tspan6">Responsabilité</tspan></tspan></text>
+    </g>
+    <g
+       id="g30"
+       transform="matrix(1.1222513,0,0,1.058492,-35.500799,10.432227)">
+      <g
+         id="g29"
+         transform="translate(0.79094541,1.1864181)">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26913169,0,0,0.28278349,-38.24124,-71.89453)"
+           id="text28"
+           style="font-size:21.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect28);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:1.44994;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text29"
+       style="fill:none;stroke-width:0;paint-order:stroke fill markers;stroke:#000000;-inkscape-font-specification:Arial;font-family:Arial;font-size:24px;text-align:center;stroke-miterlimit:1.9;opacity:1;fill-rule:nonzero;fill-opacity:0.99607801;stroke-dasharray:none;white-space:pre;shape-inside:url(#rect29)" />
+    <g
+       id="g46"
+       transform="translate(62.890433,-32.36239)">
+      <g
+         id="g31"
+         transform="matrix(1.3186933,0,0,1.2786683,-7.7383433,-41.969418)"
+         style="stroke-width:0.538302;stroke-dasharray:none">
+        <ellipse
+           style="fill:none;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.538302;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"
+           id="ellipse22"
+           cx="36.69067"
+           cy="81.068611"
+           rx="24.464075"
+           ry="13.786316" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;white-space:pre;inline-size:62.0169;fill:none;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.538302;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"
+           x="44.72205"
+           y="97.414375"
+           id="text23"
+           transform="translate(-7.9094541,-13.841545)" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.37926438,0,0,0.32765965,-115.2917,-76.275149)"
+         id="text35"
+         style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect35);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.913426;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
+           x="331.34277"
+           y="426.68256"
+           id="tspan9"><tspan
+             style="opacity:1;fill:#000000"
+             id="tspan8">Sensibilisation </tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:5.62963px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-rule:nonzero;stroke:#000000;stroke-width:0.871988;paint-order:markers fill stroke"
+       x="14.524038"
+       y="84.444893"
+       id="text14"
+       transform="scale(0.90771966,1.1016617)"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="stroke-width:0.871988"
+         x="15.306084"
+         y="84.444893"> </tspan></text>
+    <g
+       id="g36"
+       transform="matrix(2.0933229,0,0,1.980829,-11.610567,-57.55777)"
+       style="stroke-width:0.31822434;stroke-dasharray:none">
+      <ellipse
+         style="fill:none;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.31822434;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"
+         id="ellipse36"
+         cx="36.69067"
+         cy="81.068611"
+         rx="24.464075"
+         ry="13.786316" />
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;white-space:pre;inline-size:62.0169;fill:none;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.31822434;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"
+         x="44.72205"
+         y="97.414375"
+         id="text36"
+         transform="translate(-7.9094541,-13.841545)" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.24727313,0.13082513,-0.13196752,0.21555783,47.488894,-45.995196)"
+       id="text37"
+       style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect37);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.913426;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
+         x="364.02051"
+         y="426.68256"
+         id="tspan11"><tspan
+           style="opacity:1;fill:#000000"
+           id="tspan10">Ethique 
+</tspan></tspan></text>
+    <g
+       id="g45"
+       transform="translate(22.265223,-28.735813)">
+      <g
+         id="g44">
+        <ellipse
+           style="fill:none;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.699;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"
+           id="path4"
+           cx="114.2916"
+           cy="97.286285"
+           rx="54.937607"
+           ry="27.649992" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.37926438,0,0,0.32765965,-21.564669,-55.315095)"
+         id="text38"
+         style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect38);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.913426;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
+           x="366.7041"
+           y="426.68256"
+           id="tspan13"><tspan
+             style="opacity:1;fill:#000000"
+             id="tspan12">Fiabilité </tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.37926438,0,0,0.32765965,-19.453611,-37.518824)"
+         id="text39"
+         style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect39);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.913426;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
+           x="354.68066"
+           y="426.68256"
+           id="tspan16"><tspan
+             style="opacity:1;fill:#000000"
+             id="tspan15">Education
+</tspan></tspan><tspan
+           x="350.69629"
+           y="456.68256"
+           id="tspan18"><tspan
+             style="opacity:1;fill:#000000"
+             id="tspan17"> climatique </tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.37926438,0,0,0.32765965,-65.462139,-48.987532)"
+         id="text40"
+         style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect40);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.913426;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
+           x="354.69238"
+           y="426.68256"
+           id="tspan20"><tspan
+             style="opacity:1;fill:#000000"
+             id="tspan19">Prédiction</tspan></tspan></text>
+      <g
+         id="g41"
+         transform="matrix(1.0962156,0,0,1.0127573,96.000823,22.891875)">
+        <ellipse
+           style="fill:none;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.756498;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"
+           id="ellipse40"
+           cx="36.69067"
+           cy="81.068611"
+           rx="24.464075"
+           ry="13.786316" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;white-space:pre;inline-size:62.0169;fill:none;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.234111;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"
+           x="44.72205"
+           y="97.414375"
+           id="text41"
+           transform="translate(-7.9094541,-13.841545)" />
+      </g>
+      <g
+         id="g42"
+         transform="matrix(1.0962156,0,0,1.0127573,50.916935,7.4684395)">
+        <ellipse
+           style="fill:none;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.756498;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"
+           id="ellipse41"
+           cx="36.69067"
+           cy="81.068611"
+           rx="24.464075"
+           ry="13.786316" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;white-space:pre;inline-size:62.0169;fill:none;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.234111;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"
+           x="44.72205"
+           y="97.414375"
+           id="text42"
+           transform="translate(-7.9094541,-13.841545)" />
+      </g>
+    </g>
+    <g
+       id="g49"
+       transform="matrix(1.0416921,0,0,1.132494,8.6704882,-15.730763)">
+      <g
+         id="g48"
+         transform="matrix(0.93058747,0,0,0.80211999,-55.683698,36.489016)">
+        <g
+           id="g47"
+           transform="matrix(0.88155301,0,0,1.0016083,17.718761,-0.15996046)">
+          <ellipse
+             style="fill:none;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.681477;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"
+             id="ellipse46"
+             cx="121.21239"
+             cy="99.461395"
+             rx="28.206369"
+             ry="12.782937" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.27533038,0,0,0.23609381,-52.581567,17.68458)"
+         id="text48"
+         style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect49);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.913426;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
+           x="345.35254"
+           y="426.68256"
+           id="tspan22"><tspan
+             style="opacity:1;fill:#000000"
+             id="tspan21">Conscience</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
