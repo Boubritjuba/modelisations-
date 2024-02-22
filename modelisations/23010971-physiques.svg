@@ -142,7 +142,7 @@
        x2="102.03195"
        y2="51.609188"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1136029,0,0,2.8897607,-54.352935,-67.262245)" />
+       gradientTransform="matrix(2.1136029,0,0,2.8897607,-53.56199,-66.866772)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#swatch6"
@@ -240,8 +240,8 @@
        id="rect6"
        width="182.76918"
        height="140.4536"
-       x="10.845099"
-       y="10.449629" />
+       x="11.636045"
+       y="10.845101" />
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -269,14 +269,17 @@
        height="80.561058"
        x="28.100441"
        y="34.068333" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,20.163498,93.67749)"
-       id="text21"
-       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect22);display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
-         x="261.37377"
-         y="195.32249"
-         id="tspan1">Site Web</tspan></text>
+    <g
+       id="g35">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,20.163498,93.67749)"
+         id="text21"
+         style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect22);display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
+           x="261.37377"
+           y="195.32249"
+           id="tspan1">Site Web</tspan></text>
+    </g>
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.871823;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect23"
@@ -284,28 +287,34 @@
        height="81.360428"
        x="107.9705"
        y="33.290005" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-13.835936,53.689864)"
-       id="text25"
-       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect26);display:inline;fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
-         x="539.31615"
-         y="177.38694"
-         id="tspan2">Interface </tspan><tspan
-         x="525.45874"
-         y="214.05357"
-         id="tspan3">predictions </tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-94.676016,55.271755)"
-       id="text26"
-       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect27);display:inline;fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
-         x="500.17882"
-         y="177.38694"
-         id="tspan4">Interface Veille </tspan><tspan
-         x="492.02909"
-         y="214.05357"
-         id="tspan5">Informationnelle</tspan></text>
+    <g
+       id="g32">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-17.400801,54.219031)"
+         id="text25"
+         style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect26);display:inline;fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
+           x="539.31615"
+           y="177.38694"
+           id="tspan2">Interface </tspan><tspan
+           x="525.45874"
+           y="214.05357"
+           id="tspan3">predictions </tspan></text>
+    </g>
+    <g
+       id="g34">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-94.676016,55.271755)"
+         id="text26"
+         style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect27);display:inline;fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
+           x="500.17882"
+           y="177.38694"
+           id="tspan4">Interface Veille </tspan><tspan
+           x="492.02909"
+           y="214.05357"
+           id="tspan5">Informationnelle</tspan></text>
+    </g>
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.547222;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect28"
