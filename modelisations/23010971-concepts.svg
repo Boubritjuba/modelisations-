@@ -248,6 +248,18 @@
        width="496.2404"
        height="131.5336"
        id="rect49" />
+    <rect
+       x="159.9329"
+       y="405.0637"
+       width="496.2404"
+       height="131.5336"
+       id="rect30" />
+    <rect
+       x="159.9329"
+       y="405.0637"
+       width="496.2404"
+       height="131.5336"
+       id="rect33" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -318,22 +330,45 @@
          rx="103.98853"
          ry="67.011826" />
     </g>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,47.456725,-0.3954722)"
-       id="text3"
-       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect4);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:1.2926;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
-         x="308.8533"
-         y="431.48655"
-         id="tspan2"><tspan
-           style="opacity:1;fill:#000000"
-           id="tspan1">Réchauffement
+    <g
+       id="g2"
+       transform="matrix(0.99278065,0,0,0.96931797,2.8962558,-1.3022577)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,47.456725,-0.3954722)"
+         id="text3"
+         style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect4);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:1.2926;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
+           x="308.8533"
+           y="431.48655"
+           id="tspan23"><tspan
+             style="opacity:1;fill:#000000"
+             id="tspan4">Réchauffement
 </tspan></tspan><tspan
-         x="325.72568"
-         y="468.15318"
-         id="tspan5"><tspan
-           style="opacity:1;fill:#000000"
-           id="tspan3"> climatique    </tspan></tspan></text>
+           x="325.72568"
+           y="468.15318"
+           id="tspan25"><tspan
+             style="opacity:1;fill:#000000"
+             id="tspan24"> climatique    </tspan></tspan></text>
+      <g
+         id="g37">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-56.789162,-60.720504)"
+           id="text33"
+           style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect33);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:1.2926;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
+             x="372.99125"
+             y="431.48655"
+             id="tspan28"><tspan
+               style="opacity:1;fill:#000000"
+               id="tspan26">Veille
+</tspan></tspan><tspan
+             x="283.32273"
+             y="468.15318"
+             id="tspan30"><tspan
+               style="opacity:1;fill:#000000"
+               id="tspan29"> Informationnelle     </tspan></tspan></text>
+      </g>
+    </g>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -369,9 +404,9 @@
          style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect27);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.913426;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
            x="329.33887"
            y="426.68256"
-           id="tspan7"><tspan
+           id="tspan32"><tspan
              style="opacity:1;fill:#000000"
-             id="tspan6">Responsabilité</tspan></tspan></text>
+             id="tspan31">Responsabilité</tspan></tspan></text>
     </g>
     <g
        id="g30"
@@ -420,9 +455,9 @@
          style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect35);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.913426;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
            x="331.34277"
            y="426.68256"
-           id="tspan9"><tspan
+           id="tspan34"><tspan
              style="opacity:1;fill:#000000"
-             id="tspan8">Sensibilisation </tspan></tspan></text>
+             id="tspan33">Sensibilisation </tspan></tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -462,9 +497,9 @@
        style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect37);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.913426;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
          x="364.02051"
          y="426.68256"
-         id="tspan11"><tspan
+         id="tspan36"><tspan
            style="opacity:1;fill:#000000"
-           id="tspan10">Ethique 
+           id="tspan35">Ethique 
 </tspan></tspan></text>
     <g
        id="g45"
@@ -486,25 +521,28 @@
          style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect38);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.913426;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
            x="366.7041"
            y="426.68256"
-           id="tspan13"><tspan
+           id="tspan38"><tspan
              style="opacity:1;fill:#000000"
-             id="tspan12">Fiabilité </tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.37926438,0,0,0.32765965,-19.453611,-37.518824)"
-         id="text39"
-         style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect39);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.913426;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
-           x="354.68066"
-           y="426.68256"
-           id="tspan16"><tspan
-             style="opacity:1;fill:#000000"
-             id="tspan15">Education
+             id="tspan37">Fiabilité </tspan></tspan></text>
+      <g
+         id="g1">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.37926438,0,0,0.32765965,-19.453611,-37.518824)"
+           id="text39"
+           style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect39);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.913426;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
+             x="354.68066"
+             y="426.68256"
+             id="tspan40"><tspan
+               style="opacity:1;fill:#000000"
+               id="tspan39">Education
 </tspan></tspan><tspan
-           x="350.69629"
-           y="456.68256"
-           id="tspan18"><tspan
-             style="opacity:1;fill:#000000"
-             id="tspan17"> climatique </tspan></tspan></text>
+             x="350.69629"
+             y="456.68256"
+             id="tspan42"><tspan
+               style="opacity:1;fill:#000000"
+               id="tspan41"> climatique </tspan></tspan></text>
+      </g>
       <text
          xml:space="preserve"
          transform="matrix(0.37926438,0,0,0.32765965,-65.462139,-48.987532)"
@@ -512,9 +550,9 @@
          style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect40);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.913426;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
            x="354.69238"
            y="426.68256"
-           id="tspan20"><tspan
+           id="tspan44"><tspan
              style="opacity:1;fill:#000000"
-             id="tspan19">Prédiction</tspan></tspan></text>
+             id="tspan43">Prédiction</tspan></tspan></text>
       <g
          id="g41"
          transform="matrix(1.0962156,0,0,1.0127573,96.000823,22.891875)">
@@ -577,9 +615,33 @@
          style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect49);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.913426;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
            x="345.35254"
            y="426.68256"
-           id="tspan22"><tspan
+           id="tspan46"><tspan
              style="opacity:1;fill:#000000"
-             id="tspan21">Conscience</tspan></tspan></text>
+             id="tspan45">Conscience</tspan></tspan></text>
     </g>
+    <g
+       id="g26"
+       transform="matrix(1.3186933,0,0,1.2786683,3.2937237,-49.990127)"
+       style="stroke-width:0.538302;stroke-dasharray:none">
+      <ellipse
+         style="fill:none;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.538302;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"
+         id="ellipse23"
+         cx="36.69067"
+         cy="81.068611"
+         rx="24.464075"
+         ry="13.786316" />
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;white-space:pre;inline-size:62.0169;fill:none;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.538302;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers"
+         x="44.72205"
+         y="97.414375"
+         id="text26"
+         transform="translate(-7.9094541,-13.841545)" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.37926438,0,0,0.32765965,-104.25963,-84.295858)"
+       id="text27"
+       style="font-size:24px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect30);opacity:0.99;fill:#ffffff;fill-opacity:0.996078;fill-rule:nonzero;stroke:#000000;stroke-width:0.913426;stroke-miterlimit:1.9;stroke-dasharray:none;paint-order:stroke fill markers" />
   </g>
 </svg>
