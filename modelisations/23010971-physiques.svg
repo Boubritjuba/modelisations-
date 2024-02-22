@@ -146,49 +146,9 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#swatch6"
-       id="linearGradient13"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.59483381,0,0,1.5708979,18.376503,-14.574475)"
-       x1="30.84687"
-       y1="51.609188"
-       x2="102.03195"
-       y2="51.609188" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch6"
-       id="linearGradient14"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.79263456,0,0,2.3133708,3.2140022,-43.488837)"
-       x1="30.84687"
-       y1="51.609188"
-       x2="102.03195"
-       y2="51.609188" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch6"
        id="linearGradient10"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.49180397,0,0,1.0621281,26.206946,5.3417033)"
-       x1="30.84687"
-       y1="51.609188"
-       x2="102.03195"
-       y2="51.609188" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch6"
-       id="linearGradient17"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.94719422,0,0,2.2954338,75.327642,-42.966048)"
-       x1="30.84687"
-       y1="51.609188"
-       x2="102.03195"
-       y2="51.609188" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#swatch6"
-       id="linearGradient18"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.78073278,0,0,1.6900842,88.926818,-23.112985)"
+       gradientTransform="matrix(0.79900662,0,0,1.6575026,3.4542227,-10.505456)"
        x1="30.84687"
        y1="51.609188"
        x2="102.03195"
@@ -220,9 +180,15 @@
     <rect
        x="473.8199"
        y="150.9647"
-       width="165.9117"
-       height="85.197899"
+       width="245.1308"
+       height="106.1237"
        id="rect26" />
+    <rect
+       x="473.8199"
+       y="150.9647"
+       width="245.1308"
+       height="106.1237"
+       id="rect27" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -268,142 +234,65 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text8"
-       style="white-space:pre;shape-inside:url(#rect8);fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.89134;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
-    <rect
-       style="fill:url(#linearGradient14);fill-opacity:1;stroke:#000000;stroke-width:0.936;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect12"
-       width="68.541344"
-       height="112.43881"
-       x="27.664288"
-       y="18.722675" />
-    <rect
-       style="fill:url(#linearGradient13);fill-opacity:1;stroke:#000000;stroke-width:0.739492;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect13"
-       width="51.436954"
-       height="76.351738"
-       x="36.724796"
-       y="27.670336" />
+       style="white-space:pre;shape-inside:url(#rect8);display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.89134;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text7"
-       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect9);fill:#ba2d2d;fill-opacity:0.56875;stroke:#000000;stroke-width:2.89134;paint-order:markers fill stroke" />
+       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect9);display:inline;fill:#ba2d2d;fill-opacity:0.56875;stroke:#000000;stroke-width:2.89134;paint-order:markers fill stroke" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-6.3275633,57.739015)"
        id="text11"
-       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect11);fill:#ba2d2d;fill-opacity:0.56875;stroke:#000000;stroke-width:2.13543;stroke-dasharray:none;paint-order:markers fill stroke" />
+       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect11);display:inline;fill:#ba2d2d;fill-opacity:0.56875;stroke:#000000;stroke-width:2.13543;stroke-dasharray:none;paint-order:markers fill stroke" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0.39547272,9.4913451)"
        id="text15"
-       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect15);fill:#ba2d2d;fill-opacity:0.56875;stroke:#000000;stroke-width:2.89134;paint-order:markers fill stroke" />
+       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect15);display:inline;fill:#ba2d2d;fill-opacity:0.56875;stroke:#000000;stroke-width:2.89134;paint-order:markers fill stroke" />
     <rect
-       style="fill:url(#linearGradient10);fill-opacity:1;stroke:#000000;stroke-width:0.5529;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:url(#linearGradient10);fill-opacity:1;stroke:#000000;stroke-width:0.880368;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect10"
-       width="42.527676"
-       height="51.623547"
-       x="41.377171"
-       y="33.904598" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-21.622915,3.9547271)"
-       id="text12"
-       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect16);fill:#1a1a1a;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
-         x="246.43498"
-         y="195.32249"
-         id="tspan9">Algorithme 
-</tspan><tspan
-         x="306.75588"
-         y="231.98912"
-         id="tspan10">IA</tspan></text>
-    <rect
-       style="fill:url(#linearGradient17);fill-opacity:1;stroke:#000000;stroke-width:1.01627;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect17"
-       width="81.906548"
-       height="111.56701"
-       x="104.54488"
-       y="18.763103"
-       ry="0" />
-    <rect
-       style="fill:url(#linearGradient18);fill-opacity:1;stroke:#000000;stroke-width:0.87855;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect18"
-       width="67.512169"
-       height="82.144646"
-       x="113.00933"
-       y="22.336996" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-2.367227,2.1942645)"
-       id="text18"
-       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect19);fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
-         x="513.5785"
-         y="177.38694"
-         id="tspan11">Cortex</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-4.3501998,13.078647)"
-       id="text19"
-       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect20);fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
-         x="526.94438"
-         y="389.63499"
-         id="tspan12">Veille </tspan><tspan
-         x="457.65018"
-         y="426.30162"
-         id="tspan13">Informationnelle</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-20.965664,45.42982)"
-       id="text2"
-       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect4);fill:#1a1a1a;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
-         x="246.98641"
-         y="195.32249"
-         id="tspan14">Traitement  </tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-22.547554,72.717437)"
-       id="text5"
-       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;fill:#1a1a1a;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers;shape-inside:url(#rect21)"><tspan
-         x="202.37058"
-         y="195.32249"
-         id="tspan15">Base de données  </tspan></text>
+       width="69.092346"
+       height="80.561058"
+       x="28.100441"
+       y="34.068333" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,20.163498,93.67749)"
        id="text21"
-       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect22);fill:#1a1a1a;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
+       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect22);display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
          x="261.37377"
          y="195.32249"
-         id="tspan16">Site Web</tspan></text>
+         id="tspan1">Site Web</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.644188;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.823557;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect23"
-       width="57.859711"
-       height="51.532135"
-       x="117.34803"
-       y="28.825989" />
+       width="60.44865"
+       height="80.617744"
+       x="114.66941"
+       y="33.265873" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-2.367227,49.81929)"
-       id="text23"
-       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect24);fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
-         x="493.99193"
-         y="177.38694"
-         id="tspan17">Inoreader</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.361164;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect25"
-       width="44.696663"
-       height="20.96829"
-       x="123.13861"
-       y="36.19846" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-2.367227,26.006775)"
+       transform="matrix(0.26458333,0,0,0.26458333,-12.254045,25.611302)"
        id="text25"
-       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect26);fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
-         x="484.51017"
+       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect26);display:inline;fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
+         x="539.31615"
          y="177.38694"
-         id="tspan18">WordPress</tspan></text>
+         id="tspan2">Interface </tspan><tspan
+         x="525.45874"
+         y="214.05357"
+         id="tspan3">predictions </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-95.862434,25.611302)"
+       id="text26"
+       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect27);display:inline;fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
+         x="500.17882"
+         y="177.38694"
+         id="tspan4">Interface Veille </tspan><tspan
+         x="492.02909"
+         y="214.05357"
+         id="tspan5">Informationnelle</tspan></text>
   </g>
 </svg>
