@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="23010971-physiques.svg.svg"
+   sodipodi:docname="23010971-physiques.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -178,7 +178,7 @@
        xlink:href="#swatch6"
        id="linearGradient17"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.76544192,0,0,2.2975381,88.396837,-43.073772)"
+       gradientTransform="matrix(0.94719422,0,0,2.2954338,75.327642,-42.966048)"
        x1="30.84687"
        y1="51.609188"
        x2="102.03195"
@@ -188,7 +188,7 @@
        xlink:href="#swatch6"
        id="linearGradient18"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.57299157,0,0,1.2635283,102.85177,-4.375585)"
+       gradientTransform="matrix(0.78073278,0,0,1.6900842,88.926818,-23.112985)"
        x1="30.84687"
        y1="51.609188"
        x2="102.03195"
@@ -211,6 +211,18 @@
        width="255.5937"
        height="153.9541"
        id="rect22" />
+    <rect
+       x="473.8199"
+       y="150.9647"
+       width="165.9117"
+       height="85.197899"
+       id="rect24" />
+    <rect
+       x="473.8199"
+       y="150.9647"
+       width="165.9117"
+       height="85.197899"
+       id="rect26" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -300,45 +312,45 @@
        style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect16);fill:#1a1a1a;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
          x="246.43498"
          y="195.32249"
-         id="tspan1">Algorithme 
+         id="tspan9">Algorithme 
 </tspan><tspan
          x="306.75588"
          y="231.98912"
-         id="tspan2">IA</tspan></text>
+         id="tspan10">IA</tspan></text>
     <rect
-       style="fill:url(#linearGradient17);fill-opacity:1;stroke:#000000;stroke-width:0.914;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:url(#linearGradient17);fill-opacity:1;stroke:#000000;stroke-width:1.01627;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect17"
-       width="66.189919"
-       height="111.66928"
-       x="112.00773"
-       y="18.711967"
+       width="81.906548"
+       height="111.56701"
+       x="104.54488"
+       y="18.763103"
        ry="0" />
     <rect
-       style="fill:url(#linearGradient18);fill-opacity:1;stroke:#000000;stroke-width:0.65077;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:url(#linearGradient18);fill-opacity:1;stroke:#000000;stroke-width:0.87855;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect18"
-       width="49.548199"
-       height="61.412376"
-       x="120.52632"
-       y="29.603394" />
+       width="67.512169"
+       height="82.144646"
+       x="113.00933"
+       y="22.336996" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-2.367227,16.481769)"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.367227,2.1942645)"
        id="text18"
        style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect19);fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
-         x="484.51017"
+         x="513.5785"
          y="177.38694"
-         id="tspan3">WordPress</tspan></text>
+         id="tspan11">Cortex</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-4.3501998,5.1411452)"
+       transform="matrix(0.26458333,0,0,0.26458333,-4.3501998,13.078647)"
        id="text19"
        style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect20);fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
          x="526.94438"
          y="389.63499"
-         id="tspan4">Veille </tspan><tspan
+         id="tspan12">Veille </tspan><tspan
          x="457.65018"
          y="426.30162"
-         id="tspan5">Informationnelle</tspan></text>
+         id="tspan13">Informationnelle</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-20.965664,45.42982)"
@@ -346,7 +358,7 @@
        style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect4);fill:#1a1a1a;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
          x="246.98641"
          y="195.32249"
-         id="tspan6">Traitement  </tspan></text>
+         id="tspan14">Traitement  </tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-22.547554,72.717437)"
@@ -354,7 +366,7 @@
        style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;fill:#1a1a1a;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers;shape-inside:url(#rect21)"><tspan
          x="202.37058"
          y="195.32249"
-         id="tspan7">Base de données  </tspan></text>
+         id="tspan15">Base de données  </tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,20.163498,93.67749)"
@@ -362,6 +374,36 @@
        style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect22);fill:#1a1a1a;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
          x="261.37377"
          y="195.32249"
-         id="tspan8">Site Web</tspan></text>
+         id="tspan16">Site Web</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.644188;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect23"
+       width="57.859711"
+       height="51.532135"
+       x="117.34803"
+       y="28.825989" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.367227,49.81929)"
+       id="text23"
+       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect24);fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
+         x="493.99193"
+         y="177.38694"
+         id="tspan17">Inoreader</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.361164;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect25"
+       width="44.696663"
+       height="20.96829"
+       x="123.13861"
+       y="36.19846" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.367227,26.006775)"
+       id="text25"
+       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect26);fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
+         x="484.51017"
+         y="177.38694"
+         id="tspan18">WordPress</tspan></text>
   </g>
 </svg>
