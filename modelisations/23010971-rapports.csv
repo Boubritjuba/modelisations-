@@ -1,12 +1,8 @@
-physiques,acteurs,concepts,description,couleur,poids,
-tspan4,tspan7,tspan3,collecte d'articles dans la veille informationnelle ,#090,4,
-tspan5,tspan1,tspan16,predictions des nappes phreatique ,#37c921,5,
-tspan2,tspan6,tspan7,Site web pour sensibiliser le public ,#969d3b,6,
-tspan5,tspan3,tspan11,fiabilite des predictions ,#164744,2,
-tspan2,tspan8,tspan5,l'impact du site sur la responsabilite des organisations environnementales ,#ebe93e,7,
-tspan3,tspan5,tspan13,l'impact du site sur l'education environnementale du public,#d139a2,3,
-tspan2,tspan9,tspan11,la fiabilite du site ,#30aa99,1,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+physiques,acteurs,concepts,description,couleur,poids
+tspan4,tspan7,tspan3,collecte d'articles dans la veille informationnelle ,#090,4
+tspan5,tspan1,tspan16,predictions des nappes phreatique ,#37c921,5
+tspan2,tspan6,tspan7,Site web pour sensibiliser le public ,#969d3b,6
+tspan5,tspan3,tspan11,fiabilite des predictions ,#164744,2
+tspan2,tspan8,tspan5,l'impact du site sur la responsabilite des organisations environnementales ,#ebe93e,7
+tspan3,tspan5,tspan13,l'impact du site sur l'education environnementale du public,#d139a2,3
+tspan2,tspan9,tspan11,la fiabilite du site ,#30aa99,1
