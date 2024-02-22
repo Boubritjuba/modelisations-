@@ -51,8 +51,8 @@
     <rect
        x="252.6043"
        y="439.4418"
-       width="283.993"
-       height="179.364"
+       width="422.80216"
+       height="192.83725"
        id="rect4" />
     <rect
        x="445.4206"
@@ -326,9 +326,9 @@
          style="font-size:28.9243px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect9);display:inline;fill:#fcfcfa;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
            x="248.3563"
            y="154.59861"
-           id="tspan13"><tspan
+           id="tspan2"><tspan
              style="fill:#2b0000"
-             id="tspan6">Etudiants</tspan></tspan></text>
+             id="tspan1">Etudiants</tspan></tspan></text>
     </g>
     <g
        id="g7"
@@ -356,9 +356,9 @@
          style="font-size:27.9819px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect10);display:inline;fill:#fcfcfa;fill-opacity:1;stroke:#000000;stroke-width:0.107647;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
            x="231.79681"
            y="419.80638"
-           id="tspan15"><tspan
+           id="tspan4"><tspan
              style="fill:#2b0000"
-             id="tspan14">Agriculteurs</tspan></tspan></text>
+             id="tspan3">Agriculteurs</tspan></tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -388,27 +388,24 @@
        style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect7);opacity:0.99;fill:#1a1a1a;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:2;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
          x="366.61105"
          y="557.04124"
-         id="tspan16">Public</tspan></text>
+         id="tspan5">Public</tspan></text>
     <g
-       id="g8">
+       id="g8"
+       transform="matrix(1.2598585,0,0,0.99844479,-35.031478,0.20817971)">
       <g
          id="g3"
          transform="translate(48.270107,32.317508)">
         <text
            xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,-25.705726,-23.817175)"
+           transform="matrix(0.26458333,0,0,0.26458333,-45.026692,-19.577247)"
            id="text1"
-           style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect4);opacity:0.99;fill:#1a1a1a;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:2;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
-             x="344.85715"
-             y="465.86351"
-             id="tspan17">Equipe 
-</tspan><tspan
-             x="351.3884"
-             y="502.53013"
-             id="tspan18">du site</tspan></text>
+           style="font-size:26.154px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect4);opacity:0.99;fill:#1a1a1a;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:2;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
+             x="381.12429"
+             y="462.99974"
+             id="tspan6">Equipe du site</tspan></text>
         <g
            id="g2"
-           transform="translate(3.7041668,10.583334)">
+           transform="matrix(1.0006132,0,0,0.84865059,3.2388268,24.472548)">
           <path
              sodipodi:type="star"
              style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2);stroke-width:0.702239;stroke-dasharray:none"
@@ -454,7 +451,7 @@
          style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect6);opacity:0.99;fill:#1a1a1a;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:2;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
            x="330.74651"
            y="557.04124"
-           id="tspan19">Chercheurs</tspan></text>
+           id="tspan7">Chercheurs</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -488,24 +485,21 @@
          id="g1">
         <text
            xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,9.8868175,-92.278834)"
+           transform="matrix(0.26458333,0,0,0.26458333,9.8868175,-84.870496)"
            id="text17"
-           style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect17);opacity:0.99;fill:#1a1a1a;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:2;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
-             x="329.03265"
-             y="557.04124"
-             id="tspan20">organisations </tspan><tspan
-             x="292.34454"
-             y="593.70787"
-             id="tspan21">environnementales</tspan></text>
+           style="font-size:18.6667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect17);opacity:0.99;fill:#1a1a1a;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:2;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
+             x="279.29923"
+             y="547.43325"
+             id="tspan8">organisations environnementales</tspan></text>
       </g>
     </g>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-36.283456,-9.7465573)"
+       transform="matrix(0.26458333,0,0,0.26458333,-45.379328,-29.520193)"
        id="text18"
        style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect18);opacity:0.99;fill:#1a1a1a;stroke:#000000;stroke-width:0.755906;stroke-miterlimit:2;stroke-dasharray:none;paint-order:stroke fill markers"><tspan
          x="321.77321"
          y="557.04124"
-         id="tspan22">communauté</tspan></text>
+         id="tspan9">communauté</tspan></text>
   </g>
 </svg>
