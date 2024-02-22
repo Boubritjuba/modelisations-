@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.66903058"
-     inkscape:cx="397.5902"
-     inkscape:cy="272.78275"
+     inkscape:cx="946.14509"
+     inkscape:cy="396.84285"
      inkscape:window-width="1920"
      inkscape:window-height="986"
      inkscape:window-x="-11"
@@ -201,6 +201,12 @@
        width="245.1308"
        height="106.1237"
        id="rect31" />
+    <rect
+       x="473.8199"
+       y="150.9647"
+       width="405.0637"
+       height="118.0813"
+       id="rect12" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -278,29 +284,18 @@
          style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect22);display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
            x="261.37377"
            y="195.32249"
-           id="tspan1">Site Web</tspan></text>
+           id="tspan2">Site Web</tspan></text>
     </g>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.871823;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.958812;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect23"
-       width="67.123421"
-       height="81.360428"
-       x="107.9705"
-       y="33.290005" />
+       width="81.273453"
+       height="81.273438"
+       x="108.01399"
+       y="33.3335" />
     <g
-       id="g32">
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-17.400801,54.219031)"
-         id="text25"
-         style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect26);display:inline;fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
-           x="539.31615"
-           y="177.38694"
-           id="tspan2">Interface </tspan><tspan
-           x="525.45874"
-           y="214.05357"
-           id="tspan3">predictions </tspan></text>
-    </g>
+       id="g32"
+       transform="matrix(1.0745293,0,0,0.99945619,-9.0983027,0.05652921)" />
     <g
        id="g34">
       <text
@@ -310,10 +305,7 @@
          style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect27);display:inline;fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
            x="500.17882"
            y="177.38694"
-           id="tspan4">Interface Veille </tspan><tspan
-           x="492.02909"
-           y="214.05357"
-           id="tspan5">Informationnelle</tspan></text>
+           id="tspan3">Interface Veille </tspan></text>
     </g>
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.547222;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
@@ -329,21 +321,33 @@
        style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect29);display:inline;fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
          x="548.30377"
          y="177.38694"
-         id="tspan6">Articles </tspan></text>
+         id="tspan4">Articles </tspan></text>
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.547222;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect30"
        width="60.725094"
        height="35.414841"
-       x="111.12994"
+       x="119.06742"
        y="44.974998" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-17.417636,18.230065)"
+       transform="matrix(0.26458333,0,0,0.26458333,-11.067632,18.230065)"
        id="text30"
        style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect31);display:inline;fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
          x="513.25563"
          y="177.38694"
-         id="tspan7">Diagrammes </tspan></text>
+         id="tspan5">Diagrammes </tspan></text>
+    <g
+       id="g3"
+       transform="translate(83.60838)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-114.78444,55.271755)"
+         id="text3"
+         style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect12);display:inline;fill:#2b0000;stroke:#000000;stroke-width:0.95622;paint-order:stroke fill markers"><tspan
+           x="545.0965"
+           y="177.38694"
+           id="tspan6">intreface predictions </tspan></text>
+    </g>
   </g>
 </svg>
